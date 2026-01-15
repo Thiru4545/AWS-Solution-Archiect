@@ -1,4 +1,11 @@
+Tutorials DOJO site using AWS pratice Labs:
 https://portal.tutorialsdojo.com/lab-library/
 
 AWS CI/CD Pipelline project:
 https://amitabhdevops.hashnode.dev/setting-up-cicd-pipeline-with-aws-codepipeline-for-a-nodejs-application#heading-create-an-iam-user
+
+Building a Robust DevOps CI/CD Pipeline with Jenkins, SonarQube, Docker, and GitHub on AWS:
+https://www.vikteches.com/building-a-robust-ci-cd-pipeline-with-jenkins-sonarqube-docker-and-github-on-aws/
+
+Automating Continuous Deployment with AWS CodeDeploy and CodePipeline using AWS services:
+https://medium.com/aws-devops-simplified/automating-continuous-deployment-with-aws-codedeploy-and-codepipeline-9a986b96616d
