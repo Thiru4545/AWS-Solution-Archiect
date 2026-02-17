@@ -3,6 +3,7 @@ https://portal.tutorialsdojo.com/lab-library/
 
 AWS CI/CD Pipelline project:
 https://amitabhdevops.hashnode.dev/setting-up-cicd-pipeline-with-aws-codepipeline-for-a-nodejs-application#heading-create-an-iam-user
+https://blog.devops.dev/aws-codepipeline-for-ec2-4d5a53e89d84
 
 Building a Robust DevOps CI/CD Pipeline with Jenkins, SonarQube, Docker, and GitHub on AWS:
 https://www.vikteches.com/building-a-robust-ci-cd-pipeline-with-jenkins-sonarqube-docker-and-github-on-aws/
@@ -12,3 +13,5 @@ https://medium.com/aws-devops-simplified/automating-continuous-deployment-with-a
 
 Projects Link Site Name ==> Kubernet
 https://www.kubernet.dev/tag/cloud-native/
+
+
